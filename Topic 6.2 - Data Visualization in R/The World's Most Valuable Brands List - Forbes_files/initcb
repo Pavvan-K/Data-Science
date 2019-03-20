@@ -1,0 +1,37 @@
+var __wsconf = window.__wsconf = window.__wsconf || {};
+__wsconf.section = '14';
+__wsconf.appId = '1056';
+__wsconf.znl = {"10336":{"tu":1,"conf":{"Height":250.0,"ContainerElementSelector":"#article_container_0_recx_0","sizes":[{"width":300,"height":250}],"Width":300.0,"ElementSelectorPosition":"inside"},"type":"normal"},"10337":{"tu":1,"conf":{"Height":250.0,"ContainerElementSelector":"#loge","sizes":[{"width":300,"height":250}],"Width":300.0,"ElementSelectorPosition":"inside"},"type":"normal"},"22370":{"fp":1,"conf":{"Height":250.0,"sizes":[{"width":300,"height":250}],"Width":300.0,"Source":"googlesyndication.com","Selector":"google_ads_iframe_/7175"},"type":"allocation"},"10338":{"tu":1,"conf":{"Height":250.0,"ContainerElementSelector":"#article_container_0_rec","sizes":[{"width":300,"height":250}],"Width":300.0,"ElementSelectorPosition":"inside"},"type":"normal"},"22371":{"conf":{"PotentialGtsDuration":20.0,"sizes":[{"width":300,"height":600}],"Height":600.0,"IgnoreNotMeasurable":true,"Width":300.0,"Source":"googlesyndication.com","Selector":"google_ads_iframe_/?7175"},"type":"allocation"},"10339":{"tu":1,"conf":{"Height":250.0,"ContainerElementSelector":"#article_container_1_rec","sizes":[{"width":300,"height":250}],"Width":300.0,"ElementSelectorPosition":"inside"},"type":"normal"},"10340":{"tu":1,"conf":{"Height":250.0,"ContainerElementSelector":"#article_container_3_loge","sizes":[{"width":300,"height":250}],"Width":300.0,"ElementSelectorPosition":"inside"},"type":"normal"},"9125":{"conf":{"Type":"dynamic","StickyTopOffset":0.0,"sizes":[{"width":1,"height":1}],"Position":"left","InitialTopOffset":0.0,"DockElementSelector":"header","HorizontalOffset":20.0,"Height":1.0,"MaxScroll":0.0,"Width":1.0},"type":"side"},"22374":{"conf":{"PotentialGtsDuration":20.0,"sizes":[{"width":300,"height":250}],"Height":250.0,"IgnoreNotMeasurable":true,"Width":300.0,"Source":"googlesyndication.com","Selector":"google_ads_iframe_/?7175"},"type":"allocation"},"22695":{"conf":{"PotentialGtsDuration":20.0,"sizes":[{"width":970,"height":250}],"Height":250.0,"IgnoreNotMeasurable":true,"Width":970.0,"Source":"googlesyndication.com","Selector":"google_ads_iframe_/?7175"},"type":"allocation"},"22663":{"conf":{"PotentialGtsDuration":20.0,"sizes":[{"width":320,"height":50}],"Height":50.0,"IgnoreNotMeasurable":true,"Width":320.0,"Source":"googlesyndication.com","Selector":"google_ads_iframe_/?7175"},"type":"allocation"},"22375":{"conf":{"PotentialGtsDuration":20.0,"sizes":[{"width":728,"height":90}],"Height":90.0,"IgnoreNotMeasurable":true,"Width":728.0,"Source":"googlesyndication.com","Selector":"google_ads_iframe_/?7175"},"type":"allocation"},"197175":{"conf":{"PotentialGtsDuration":20.0,"sizes":[{"width":970,"height":90}],"Height":90.0,"IgnoreNotMeasurable":false,"Width":970.0,"Source":"googlesyndication.com","Selector":"google_ads_iframe_/?7175"},"type":"allocation"},"9236":{"fp":1,"conf":{"Height":250.0,"sizes":[{"width":300,"height":250}],"Width":300.0},"type":"normal"},"197174":{"conf":{"PotentialGtsDuration":20.0,"sizes":[{"width":160,"height":600}],"Height":600.0,"IgnoreNotMeasurable":false,"Width":160.0,"Source":"googlesyndication.com","Selector":"google_ads_iframe_/?7175"},"type":"allocation"},"22645":{"fp":1,"conf":{"Height":60.0,"sizes":[{"width":234,"height":60}],"Width":234.0,"Source":"googlesyndication.com","Selector":"google_ads_iframe_/7175"},"type":"allocation"},"197177":{"conf":{"PotentialGtsDuration":20.0,"sizes":[{"width":336,"height":280}],"Height":280.0,"IgnoreNotMeasurable":false,"Width":336.0,"Source":"googlesyndication.com","Selector":"google_ads_iframe_/?7175"},"type":"allocation"},"197176":{"conf":{"PotentialGtsDuration":20.0,"sizes":[{"width":970,"height":66}],"Height":66.0,"IgnoreNotMeasurable":false,"Width":970.0,"Source":"googlesyndication.com","Selector":"google_ads_iframe_/?7175"},"type":"allocation"},"22716":{"conf":{"PotentialGtsDuration":20.0,"sizes":[{"width":300,"height":50}],"Height":50.0,"IgnoreNotMeasurable":true,"Width":300.0,"Source":"googlesyndication.com","Selector":"google_ads_iframe_/?7175"},"type":"allocation"},"10332":{"tu":1,"conf":{"Height":250.0,"sizes":[{"width":1170,"height":250}],"Width":1170.0,"Selector":"google_ads_iframe_"},"type":"autotag"},"10333":{"tu":1,"conf":{"Height":90.0,"sizes":[{"width":728,"height":90}],"Width":728.0,"Selector":"google_ads_iframe_"},"type":"autotag"},"10334":{"tu":1,"conf":{"Height":600.0,"sizes":[{"width":300,"height":600}],"Width":300.0,"Selector":"google_ads_iframe_"},"type":"autotag"},"10335":{"tu":1,"conf":{"Height":250.0,"ContainerElementSelector":"#article_container_0_loge","sizes":[{"width":300,"height":250}],"Width":300.0,"ElementSelectorPosition":"inside"},"type":"normal"}};
+__wsconf.rootPath = '//wsc4.webspectator.com';
+__wsconf.sessionId = 'CA19AB4A6276F9EB';
+__wsconf.contextId = '853B';
+__wsconf.cid = '3A5FB6A9';
+__wsconf.vtm = 'TFPC';
+__wsconf.g_country = 'IN';
+__wsconf.g_region = 'KA';
+__wsconf.g_city = 'Bengaluru';
+__wsconf.dads = 0;
+__wsconf.mui= "99";
+__wsconf.frt= "20";
+__wsconf.ortc= {"url":"window.location.protocol + \u0027//ortc-prd.realtime.co/server\u0027 + (window.location.protocol \u003d\u003d \u0027https:\u0027 ? \u0027/ssl/\u0027 : \u0027/\u0027) + \u00272.1/\u0027","apk":"R60tcQ","aut":"ws.client"};
+__wsconf.smc= {"disconnectTimer":90.0};
+
+
+var s0 = document.createElement('script');
+s0.type = 'text/javascript';
+s0.async = true;
+s0.src = "//messaging-public.realtime.co/js/2.1.0/ortcstandalonegz.js";
+document.getElementsByTagName('HEAD')[0].appendChild(s0);
+
+var s1 = document.createElement('script');
+s1.type = 'text/javascript';
+s1.async = true;
+s1.src = "//ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js";
+document.getElementsByTagName('HEAD')[0].appendChild(s1);
+
+var s2 = document.createElement('script');
+s2.type = 'text/javascript';
+s2.async = true;
+s2.src = "//wfpscripts.webspectator.com/ws-4.4.3i_cc.js";
+document.getElementsByTagName('HEAD')[0].appendChild(s2);
+
