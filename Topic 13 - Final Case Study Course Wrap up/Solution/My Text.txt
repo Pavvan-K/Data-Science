@@ -1,13 +1,3 @@
 Here i will describe the text
 My New line
-<<<<<<< HEAD
-<<<<<<< HEAD
-New Feauter in Master Branch
-=======
-This is new feature added now should be in WIP branch
-
-This commit should be in WIP
->>>>>>> WIP
-=======
-This is new feature added now should be in WIP2
->>>>>>> WIP4
+Master Feature
