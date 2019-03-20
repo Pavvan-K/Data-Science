@@ -1,3 +1,9 @@
 Here i will describe the text
 My New line
+<<<<<<< HEAD
 New Feauter in Master Branch
+=======
+This is new feature added now should be in WIP branch
+
+This commit should be in WIP
+>>>>>>> WIP
