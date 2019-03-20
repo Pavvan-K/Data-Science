@@ -36,9 +36,8 @@ categorical_profliling<-function(variable_name){
 ###~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#####
 
 
-path ='E:\\Courses\\Jigsaw R\\JIGSAW\\DSR\\R Lab\\Data Science with R - files\\Data Science with R - files\\Assignments\\Graded Assignments\\Topic 13 - Final Case Study Course Wrap up\\'
-filename= 'telecomfinal.csv'
-setwd("C:\\Users\\pavan.kanamarlapudi\\Desktop\\Final Telecome Casestudy")
+
+tele_data = read.csv("../telecomfinal.csv")
 tele_data<-read.csv(paste0(path,filename),stringsAsFactors = T,na.strings=c("NA",NA,""," ","-"))
 
 test_df =  data.frame()
