@@ -1,3 +1,8 @@
 Here i will describe the text
 My New line
+<<<<<<< HEAD
 MASTER CHANGE
+=======
+MASTER FEATURE
+NOW ADDING NEW FEATURE IN WIP
+>>>>>>> WIP
