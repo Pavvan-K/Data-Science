@@ -1,3 +1,3 @@
 # Data-Science
 
-Here These repo contains all Steps to be perform for data science project cycle.
+Repository Includes all the assignments done as part of the my Data Science Specalization program.
